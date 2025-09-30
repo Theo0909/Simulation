@@ -5,3 +5,5 @@ union all
 select 3 as id, 'hello from your AI assistant' as message
 union all
 select 4 as id, 'this message was added by the assistant' as message
+union all
+select 4 as id, 'this message was added by the assistant' as message
