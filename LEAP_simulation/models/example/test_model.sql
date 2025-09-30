@@ -1,1 +1,1 @@
-select 1 as id, 'hello' as message;
+select 1 as id, 'hello' as message
